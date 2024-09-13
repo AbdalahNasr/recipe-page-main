@@ -1,0 +1,19 @@
+.container-fluied{
+    background-color:    hsl(30, 54%, 90%);
+
+}
+.Preparation-time{
+    background-color:    hsl(30, 54%, 90%);
+  
+}
+span , h3 , h2 {
+    color: hsl(14, 45%, 36%);
+    font-size: 16px;
+}
+ol span{
+    color: black;
+}
+ol {
+    color: hsl(14, 45%, 36%);
+}
+
